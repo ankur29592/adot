@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: ado1
+  name: adot
   annotations:
     devops.jio.com/project-repo: TOPS/T2R/T2R
     devops.jio.com/project: TOPS/T2R
