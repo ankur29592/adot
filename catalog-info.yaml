@@ -1,10 +1,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: adot
+  name: ado1
   annotations:
-    github.com/project-slug: ankur29592/adot
+    devops.jio.com/project-repo: TOPS/T2R/T2R
+    devops.jio.com/project: TOPS/T2R
+    devops.jio.com/build-definition: jio-t2r-dynamic-tkt-configurator-admin-bff-service
 spec:
-  type: other
+  type: service
   lifecycle: unknown
   owner: guests
